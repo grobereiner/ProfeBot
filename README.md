@@ -12,3 +12,4 @@ Se utilizará el lenguaje de Golang para realizar transacciones con la discord A
 
 - Reproducir audios
 - Mandar mensajes a una cierta hora
+P
